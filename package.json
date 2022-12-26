@@ -44,7 +44,7 @@
     "linguist-js": "^2.1.4",
     "marked": "^3.0.7",
     "memory-cache": "^0.2.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^5.1.2",
     "node-chartist": "^1.0.5",
     "node-fetch": "^3.0.0",
     "open-graph-scraper": "^4.9.2",
